@@ -2,7 +2,7 @@
 
 title -= netsh wlan hostednetwork =-
 set ssid=alifw@ya.ru
-set passw=12345676
+set passw=12345677
 
 :inf
 cls
