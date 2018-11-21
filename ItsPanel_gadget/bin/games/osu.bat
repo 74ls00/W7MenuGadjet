@@ -1,5 +1,5 @@
 @echo off
 title Osu!
 
-start /d "T:\Games\Osu" osu!.exe
+start /d "G:\Games\Osu" osu!.exe
 
