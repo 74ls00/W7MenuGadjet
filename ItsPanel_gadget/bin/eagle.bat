@@ -1,2 +1,3 @@
 @echo off
-start /d G:\Programs\ProgramsT\EAGLE\EAGLE-6.3.0 EAGLE+BakRun.bat
+start /d G:\Programs\ProgramsT\EAGLE\EAGLE-6.4.0 EAGLE+BakRun.bat
+@rem start /d G:\Programs\ProgramsT\EAGLE\EAGLE-6.3.0 EAGLE+BakRun.bat
