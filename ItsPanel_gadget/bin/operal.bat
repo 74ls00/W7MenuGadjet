@@ -8,4 +8,8 @@ cls
 rem start /d G:\Programs\ProgramsW\Opera\Opera11 opera.exe
 
 rem start /d G:\Programs\ProgramsW\Opera\OperaX64 Opera64.exe
-start /d G:\Programs\ProgramsW\Opera\OperaX64 launcher.exe
+rem start /d G:\Programs\ProgramsW\Opera\OperaX64 launcher.exe
+
+rem start /d G:\Programs\ProgramsW\Opera\OperaX64 launcher.exe --save-page-as-mhtml
+start /d "G:\Programs\ProgramsW\Opera\OperaX64" launcher.exe --save-page-as-mhtml
+
