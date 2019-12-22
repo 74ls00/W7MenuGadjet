@@ -1,0 +1,1 @@
+@start /d "C:\Program Files (x86)\Vertical Mouse" Titan.exe
