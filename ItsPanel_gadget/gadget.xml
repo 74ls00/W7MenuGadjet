@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <gadget>
 	<name>Its Panel</name>
-	<version>2020.002.3837</version>
+	<version>2020.004.2525</version>
 	<hosts>
 		<host name="sidebar">
 		<base type="HTML" apiVersion="1.0.0" src="pages/page0.html" />
