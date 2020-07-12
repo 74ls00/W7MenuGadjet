@@ -2,10 +2,14 @@
 title Opera
 cls
 
-start /d "G:\Programs\ProgramsW\Opera\OperaX64\profile\data" delssdpf.exe
-start /d "G:\Programs\ProgramsW\Opera\OperaX64" launcher.exe --save-page-as-mhtml
 
 
+start /d "D:\ProgramsW7\OperaX64\profile\data" delssdpf.exe
+start /d "D:\ProgramsW7\OperaX64" launcher.exe --save-page-as-mhtml
+
+
+rem start /d "G:\Programs\ProgramsW\Opera\OperaX64\profile\data" delssdpf.exe
+rem start /d "G:\Programs\ProgramsW\Opera\OperaX64" launcher.exe --save-page-as-mhtml
 
 rem start /d G:\Programs\Programs\Opera\OperaPortable OperaPortable.exe
 
