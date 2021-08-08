@@ -5,7 +5,7 @@ cls
 
 
 start /d "D:\ProgramsW7\OperaX64\profile\data" delssdpf.exe
-start /d "D:\ProgramsW7\OperaX64" launcher.exe --save-page-as-mhtml
+start /d "D:\ProgramsW7\OperaX64" launcher.exe --save-page-as-mhtml --disable-update
 
 
 rem start /d "G:\Programs\ProgramsW\Opera\OperaX64\profile\data" delssdpf.exe
