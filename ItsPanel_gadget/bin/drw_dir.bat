@@ -1,0 +1,1 @@
+start G:\home\Internet\0-SOFT\0-Antivirus\drweb\curelt
