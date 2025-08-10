@@ -1,0 +1,1 @@
+explorer windowsdefender://ThreatSettings
