@@ -2,7 +2,11 @@
 
 #menu {
 /*background: #0085ED url('background-test.png') ;Фон изображение меню 614*384*/
-background: #0085ED url('background-test_1.png') ;/*Фон изображение меню 576*384*/
+/* background: #0085ED url('background-test_1.png') ;Фон изображение меню 576*384*/
+background: #0085ED url('background-int.png') ;/*Фон изображение меню 576*384*/
+
+
+
 }
 
 
