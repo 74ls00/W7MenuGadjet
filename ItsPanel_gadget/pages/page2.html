@@ -7,15 +7,20 @@
 <link rel="stylesheet" href="../menu/menu.css" media="all">
 <link rel="stylesheet" href="../intelmenu/4intel.css" media="all">
 <script type="text/javascript" src="../jquery/jquery-4.0.0.min.js"></script>
+<script type="text/javascript" src="../jquery/maphilight-1.5.0/jquery.maphilight.js"></script>
+	
+    <script type="text/javascript">$(function() {
+        $('.map').maphilight();
+        $('#squidheadlink').mouseover(function(e) {
+            $('#squidhead').mouseover();
+        }).mouseout(function(e) {
+            $('#squidhead').mouseout();
+        }).click(function(e) { e.preventDefault(); });
+    });</script>
+
 </head>
 <body>
 <iframe id="fmenu" src="../menu/mmenu.html" scrolling="no" frameborder="0"></iframe>
-
-
-
-
-
-
 
 <div id="block1"></div><div id="mf1"><div id="mf2"><div id="mf3"><div id="menu">
 
@@ -40,7 +45,7 @@
   
   
 </map>
-<img src="../intelmenu/background-int.png" usemap="#mapmenu" alt="" border="0">
+<img src="../intelmenu/background-int.png" usemap="#mapmenu" alt="" border="0" class="map">
 
 
 
